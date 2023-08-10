@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-https://drive.google.com/file/d/1RxFUScUSiDGd9dmP4MnWDt29Kn_A49Hu/view
+<img src="https://drive.google.com/file/d/1RxFUScUSiDGd9dmP4MnWDt29Kn_A49Hu/view">
 
 <!--
 **delfinruiz/delfinruiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
