@@ -7,7 +7,7 @@
 
 <h1 align="center">Hola 👋, yo soy delfinruiz</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=delfinruiz&label=Total%20Visitas&color=0e75b6&style=flat" alt="delfinruiz" /> </p>
-<h3 align="center">Profesional en distintas areas de la tecnologia, principalmente en el area de redes y desarrollo de software.</h3>
+<h3 align="center">Profesional en distintas áreas de la tecnología, principalmente en el área de redes y desarrollo de software.</h3>
 
 
 - 📝 <a href="https://curriculumivan.netlify.app" target="_blank" >Curriculum Vitae</a>
