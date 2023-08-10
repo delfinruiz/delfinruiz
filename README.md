@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://picsum.photos/id/237/200/300"/>
+<img src="https://drive.google.com/uc?export=download&id=1RxFUScUSiDGd9dmP4MnWDt29Kn_A49Hu"/>
 
 <!--
 **delfinruiz/delfinruiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
