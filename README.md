@@ -10,13 +10,13 @@
 
 
 <table border="0">
-<tr><th><h3 align="center">Profesional en distintas áreas de la tecnología, principalmente en el área de redes y desarrollo de software.</h3</th></th>
+<tr><th><h3 align="center">Profesional en distintas áreas de la tecnología, principalmente en el área de redes y desarrollo de software.</h3>
+- 📝 <a href="https://curriculumivan.netlify.app" target="_blank" >Curriculum Vitae</a>
+</th></th>
   <th><img src="https://drive.google.com/uc?export=download&id=1px5rt2anXjWhRefB_31pQBlXJir6QxOu" width="800" height="250"/></th></tr>
 </table>
 
 
-
-- 📝 <a href="https://curriculumivan.netlify.app" target="_blank" >Curriculum Vitae</a>
 
 <h2>EDUCACIÓN</h2>
 <p>
