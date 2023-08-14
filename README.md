@@ -8,12 +8,12 @@
 <h1 align="center">Hola 👋, yo soy delfinruiz</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=delfinruiz&label=Total%20Visitas&color=0e75b6&style=flat" alt="delfinruiz" /> </p>
 
+<img src="https://drive.google.com/uc?export=download&id=1px5rt2anXjWhRefB_31pQBlXJir6QxOu"/>
 
 <table border="0">
 <tr><th><h3 align="center">Profesional en distintas áreas de la tecnología, principalmente en el área de redes y desarrollo de software.</h3>
 - 📝 <a href="https://curriculumivan.netlify.app" target="_blank" >Curriculum Vitae</a>
-</th></th>
-  <th><img src="https://drive.google.com/uc?export=download&id=1px5rt2anXjWhRefB_31pQBlXJir6QxOu" width="800" height="250"/></th></tr>
+</th></th></tr>
 </table>
 
 
