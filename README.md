@@ -11,7 +11,7 @@
 <p align="center"><img src="https://drive.google.com/uc?export=download&id=1px5rt2anXjWhRefB_31pQBlXJir6QxOu" align="center"/></p>
 
 <table border="0">
-<tr><th><h3 align="center">Profesional en distintas áreas de la tecnología, principalmente en el área de redes y desarrollo de software.</h3>
+<tr><th><h3 align="center">Experto versátil en diversas disciplinas tecnológicas, con especial énfasis en el ámbito de redes y desarrollo de software.</h3>
 - 📝 <a href="https://curriculumivan.netlify.app" target="_blank" >Curriculum Vitae</a>
 </th></th></tr>
 </table>
