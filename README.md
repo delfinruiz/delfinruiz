@@ -12,7 +12,7 @@
 
 <table border="0">
 <tr><th><h3 align="center">Experto versátil en diversas disciplinas tecnológicas, con especial énfasis en el ámbito de redes y desarrollo de software.</h3>
-📝</th> <h2><a href="https://curriculumivanruizdelfin.netlify.app/" target="_blank">Curriculum Vitae</a></h2>
+</th> <h2><a href="https://curriculumivanruizdelfin.netlify.app/" target="_blank">Curriculum Vitae</a></h2>
 </th></th></tr>
 </table>
 
